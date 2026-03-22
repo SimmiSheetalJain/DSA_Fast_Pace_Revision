@@ -18,11 +18,12 @@ It is a way to measure how running time or space requirement for your program gr
 
 **Example :**
 
-Say, time complexity of a program is = $ a \cdot n^2 + b $
+Say, time complexity of a program is = `a * n^2 + b`
 
-We will only consider the fastest growing term, $n^2$, in the above equation and we will drop the constants which are `a` and `b`.
+We will only consider the fastest growing term, `n^2`, in the above equation and we will drop the constants which are `a` and `b`.
 
-Hence, time complexity = O($ n^2$) for $ a \cdot n^2 + b $
+Hence, time complexity = `O(n^2)` for `a * n^2 + b`
+
 **Note: O(1) is refered as constant time complexity**
 
 There is one more important concept like time complexity. It is space complexity.
