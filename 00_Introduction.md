@@ -26,8 +26,15 @@ Hence, time complexity = `O(n^2)` for `a * n^2 + b`
 
 **Note: O(1) is refered as constant time complexity**
 
-There is one more important concept like time complexity. It is space complexity.
+There is one more important concept, space complexity.
 
 Space complexity is measured in a similar way to time complexity. While time complexity represents how the execution time of an algorithm grows as the input size increases, space complexity represents how the memory requirement of an algorithm grows with respect to the input size.
 
 **I will be using Python for implementing different data structures in this repository. Feel free to use any programming language you are comfortable with.**
+
+Thanks and Best of Luck
+
+Regards,
+
+Sheetal Jain
+(Python Full-Stack Developer @ Infosys)
